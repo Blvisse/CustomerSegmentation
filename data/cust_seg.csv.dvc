@@ -1,0 +1,4 @@
+outs:
+- md5: 6cc8f3ea6bed4ff5c87813ac873d0362
+  size: 161743722
+  path: cust_seg.csv
