@@ -199,3 +199,222 @@
 2021-08-14 12:37:19,227 - matplotlib.font_manager - DEBUG - findfont: score(<Font 'Microsoft JhengHei' (msjhl.ttc) normal normal light normal>) = 10.24
 2021-08-14 12:37:19,227 - matplotlib.font_manager - DEBUG - findfont: score(<Font 'Candara' (Candarali.ttf) italic normal light normal>) = 11.24
 2021-08-14 12:37:19,227 - matplotlib.font_manager - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\blais\\AppData\\Roaming\\Python\\Python37\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2021-08-14 13:51:31,034 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 13:51:31,043 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 13:51:31,043 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 13:51:31,052 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 13:51:31,053 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 13:51:31,503 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\frame.py
+2021-08-14 13:51:31,728 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2021-08-14 13:51:31,750 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\__init__.py
+2021-08-14 13:51:31,888 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\generic.py
+2021-08-14 13:51:32,126 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\base.py
+2021-08-14 13:51:32,152 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\accessor.py
+2021-08-14 13:51:32,218 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\indexing.py
+2021-08-14 13:51:32,256 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\arraylike.py
+2021-08-14 14:04:01,449 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 14:04:01,454 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 14:04:01,454 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 14:04:01,457 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 14:04:01,457 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 14:04:01,766 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2021-08-14 14:04:40,764 - root - DEBUG - Getting nuls
+2021-08-14 14:04:40,853 - root - INFO - Calculating percentage 
+2021-08-14 14:04:40,863 - root - INFO - Done calculating nulls  
+2021-08-14 14:10:08,414 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 14:10:08,416 - parso.python.diff - DEBUG - line_lengths old: 1; new: 2
+2021-08-14 14:10:08,417 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:2]
+2021-08-14 14:10:08,424 - parso.python.diff - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+2021-08-14 14:10:08,425 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 14:10:08,472 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\plotly\__init__.py
+2021-08-14 14:10:08,513 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\plotly\animation.py
+2021-08-14 14:10:11,481 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 14:10:11,482 - parso.python.diff - DEBUG - line_lengths old: 2; new: 2
+2021-08-14 14:10:11,482 - parso.python.diff - DEBUG - -> code[equal] old[1:1] new[1:1]
+2021-08-14 14:10:11,483 - parso.python.diff - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+2021-08-14 14:10:11,483 - parso.python.diff - DEBUG - -> code[replace] old[2:2] new[2:2]
+2021-08-14 14:10:11,483 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 14:10:11,506 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\plotly\graph_objects\__init__.py
+2021-08-14 14:10:11,526 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\plotly\graph_objs\__init__.py
+2021-08-14 14:10:11,537 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\plotly\grid_objs.py
+2021-08-14 14:28:25,169 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 14:28:25,194 - parso.python.diff - DEBUG - line_lengths old: 2; new: 3
+2021-08-14 14:28:25,195 - parso.python.diff - DEBUG - -> code[replace] old[1:2] new[1:3]
+2021-08-14 14:28:25,224 - parso.python.diff - DEBUG - parse_part from 1 to 3 (to 2 in part parser)
+2021-08-14 14:28:25,225 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 14:28:25,524 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\plotly\express\__init__.py
+2021-08-14 16:49:07,738 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:49:07,762 - parso.python.diff - DEBUG - line_lengths old: 3; new: 2
+2021-08-14 16:49:07,762 - parso.python.diff - DEBUG - -> code[replace] old[1:3] new[1:2]
+2021-08-14 16:49:07,780 - parso.python.diff - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+2021-08-14 16:49:07,780 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:49:19,313 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:49:19,314 - parso.python.diff - DEBUG - line_lengths old: 2; new: 5
+2021-08-14 16:49:19,314 - parso.python.diff - DEBUG - -> code[equal] old[1:1] new[1:1]
+2021-08-14 16:49:19,315 - parso.python.diff - DEBUG - parse_part from 1 to 2 (to 4 in part parser)
+2021-08-14 16:49:19,316 - parso.python.diff - DEBUG - -> code[replace] old[2:2] new[2:5]
+2021-08-14 16:49:19,316 - parso.python.diff - DEBUG - parse_part from 3 to 5 (to 4 in part parser)
+2021-08-14 16:49:19,316 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:50:44,140 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:50:44,140 - parso.python.diff - DEBUG - line_lengths old: 5; new: 1
+2021-08-14 16:50:44,140 - parso.python.diff - DEBUG - -> code[replace] old[1:5] new[1:1]
+2021-08-14 16:50:44,140 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 16:50:44,140 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:52:53,017 - root - DEBUG - Getting nuls
+2021-08-14 16:52:53,267 - root - INFO - Calculating percentage 
+2021-08-14 16:52:53,283 - root - INFO - Done calculating nulls  
+2021-08-14 16:53:21,109 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:53:21,110 - parso.python.diff - DEBUG - line_lengths old: 1; new: 3
+2021-08-14 16:53:21,110 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:3]
+2021-08-14 16:53:21,113 - parso.python.diff - DEBUG - parse_part from 1 to 3 (to 2 in part parser)
+2021-08-14 16:53:21,114 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:53:25,161 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:53:25,162 - parso.python.diff - DEBUG - line_lengths old: 3; new: 3
+2021-08-14 16:53:25,162 - parso.python.diff - DEBUG - -> code[equal] old[1:2] new[1:2]
+2021-08-14 16:53:25,165 - parso.python.diff - DEBUG - parse_part from 1 to 3 (to 2 in part parser)
+2021-08-14 16:53:25,166 - parso.python.diff - DEBUG - -> code[replace] old[3:3] new[3:3]
+2021-08-14 16:53:25,167 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:55:41,956 - root - DEBUG - Getting nuls
+2021-08-14 16:55:42,023 - root - INFO - Calculating percentage 
+2021-08-14 16:55:42,027 - root - INFO - Done calculating nulls  
+2021-08-14 16:57:03,185 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:57:03,185 - parso.python.diff - DEBUG - line_lengths old: 3; new: 3
+2021-08-14 16:57:03,186 - parso.python.diff - DEBUG - -> code[replace] old[1:3] new[1:3]
+2021-08-14 16:57:03,199 - parso.python.diff - DEBUG - parse_part from 1 to 3 (to 2 in part parser)
+2021-08-14 16:57:03,201 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:57:10,219 - root - DEBUG - Getting nuls
+2021-08-14 16:57:10,277 - root - INFO - Calculating percentage 
+2021-08-14 16:57:10,280 - root - INFO - Done calculating nulls  
+2021-08-14 16:57:43,926 - root - DEBUG - Getting nuls
+2021-08-14 16:57:43,981 - root - INFO - Calculating percentage 
+2021-08-14 16:57:43,985 - root - INFO - Done calculating nulls  
+2021-08-14 16:58:02,477 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:58:02,478 - parso.python.diff - DEBUG - line_lengths old: 3; new: 3
+2021-08-14 16:58:02,479 - parso.python.diff - DEBUG - -> code[replace] old[1:3] new[1:3]
+2021-08-14 16:58:02,479 - parso.python.diff - DEBUG - parse_part from 1 to 3 (to 2 in part parser)
+2021-08-14 16:58:02,480 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:58:04,433 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:58:04,433 - parso.python.diff - DEBUG - line_lengths old: 3; new: 3
+2021-08-14 16:58:04,434 - parso.python.diff - DEBUG - -> code[equal] old[1:2] new[1:2]
+2021-08-14 16:58:04,434 - parso.python.diff - DEBUG - parse_part from 1 to 3 (to 2 in part parser)
+2021-08-14 16:58:04,434 - parso.python.diff - DEBUG - -> code[replace] old[3:3] new[3:3]
+2021-08-14 16:58:04,434 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:58:34,573 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:58:34,573 - parso.python.diff - DEBUG - line_lengths old: 3; new: 1
+2021-08-14 16:58:34,573 - parso.python.diff - DEBUG - -> code[replace] old[1:3] new[1:1]
+2021-08-14 16:58:34,574 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 16:58:34,574 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:58:34,777 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\typing.py
+2021-08-14 16:58:34,812 - parso.cache - DEBUG - pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2021-08-14 16:58:35,425 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:58:35,425 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 16:58:35,425 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 16:58:35,426 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 16:58:35,426 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:58:38,585 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:58:38,585 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 16:58:38,585 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 16:58:38,586 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 16:58:38,588 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:58:59,184 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:58:59,185 - parso.python.diff - DEBUG - line_lengths old: 1; new: 4
+2021-08-14 16:58:59,185 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:4]
+2021-08-14 16:58:59,187 - parso.python.diff - DEBUG - parse_part from 1 to 4 (to 3 in part parser)
+2021-08-14 16:58:59,188 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:59:00,383 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:59:00,383 - parso.python.diff - DEBUG - line_lengths old: 4; new: 4
+2021-08-14 16:59:00,384 - parso.python.diff - DEBUG - -> code[equal] old[1:3] new[1:3]
+2021-08-14 16:59:00,384 - parso.python.diff - DEBUG - copy old[1:1] new[1:1]
+2021-08-14 16:59:00,386 - parso.python.diff - DEBUG - parse_part from 2 to 4 (to 3 in part parser)
+2021-08-14 16:59:00,386 - parso.python.diff - DEBUG - -> code[replace] old[4:4] new[4:4]
+2021-08-14 16:59:00,387 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:59:17,198 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:59:17,198 - parso.python.diff - DEBUG - line_lengths old: 4; new: 1
+2021-08-14 16:59:17,199 - parso.python.diff - DEBUG - -> code[replace] old[1:4] new[1:1]
+2021-08-14 16:59:17,199 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 16:59:17,200 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:59:19,319 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:59:19,320 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 16:59:19,321 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 16:59:19,322 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 16:59:19,323 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:59:21,453 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 16:59:21,454 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 16:59:21,454 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 16:59:21,455 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 16:59:21,455 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 16:59:27,313 - root - DEBUG - Getting nuls
+2021-08-14 16:59:28,041 - root - INFO - Calculating percentage 
+2021-08-14 16:59:28,044 - root - INFO - Done calculating nulls  
+2021-08-14 17:03:53,610 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 17:03:53,611 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 17:03:53,611 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 17:03:53,612 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 17:03:53,613 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 17:04:32,055 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 17:04:32,055 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 17:04:32,056 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 17:04:32,056 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 17:04:32,056 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 17:04:37,413 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 17:04:37,413 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 17:04:37,413 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 17:04:37,413 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 17:04:37,414 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 17:04:58,845 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 17:04:58,845 - parso.python.diff - DEBUG - line_lengths old: 1; new: 2
+2021-08-14 17:04:58,845 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:2]
+2021-08-14 17:04:58,847 - parso.python.diff - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+2021-08-14 17:04:58,847 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 17:04:59,807 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 17:04:59,808 - parso.python.diff - DEBUG - line_lengths old: 2; new: 2
+2021-08-14 17:04:59,809 - parso.python.diff - DEBUG - -> code[equal] old[1:1] new[1:1]
+2021-08-14 17:04:59,812 - parso.python.diff - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+2021-08-14 17:04:59,812 - parso.python.diff - DEBUG - -> code[replace] old[2:2] new[2:2]
+2021-08-14 17:04:59,813 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 17:05:00,968 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 17:05:00,969 - parso.python.diff - DEBUG - line_lengths old: 2; new: 2
+2021-08-14 17:05:00,969 - parso.python.diff - DEBUG - -> code[equal] old[1:1] new[1:1]
+2021-08-14 17:05:00,970 - parso.python.diff - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+2021-08-14 17:05:00,970 - parso.python.diff - DEBUG - -> code[replace] old[2:2] new[2:2]
+2021-08-14 17:05:00,971 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 17:05:10,597 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 17:05:10,597 - parso.python.diff - DEBUG - line_lengths old: 2; new: 4
+2021-08-14 17:05:10,598 - parso.python.diff - DEBUG - -> code[equal] old[1:1] new[1:1]
+2021-08-14 17:05:10,599 - parso.python.diff - DEBUG - parse_part from 1 to 4 (to 3 in part parser)
+2021-08-14 17:05:10,599 - parso.python.diff - DEBUG - -> code[replace] old[2:2] new[2:4]
+2021-08-14 17:05:10,599 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 17:05:13,002 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 17:05:13,002 - parso.python.diff - DEBUG - line_lengths old: 4; new: 4
+2021-08-14 17:05:13,002 - parso.python.diff - DEBUG - -> code[equal] old[1:3] new[1:3]
+2021-08-14 17:05:13,004 - parso.python.diff - DEBUG - parse_part from 1 to 4 (to 3 in part parser)
+2021-08-14 17:05:13,004 - parso.python.diff - DEBUG - -> code[replace] old[4:4] new[4:4]
+2021-08-14 17:05:13,004 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 17:05:24,233 - root - DEBUG - Getting nuls
+2021-08-14 17:05:25,243 - root - INFO - Calculating percentage 
+2021-08-14 17:05:25,252 - root - INFO - Done calculating nulls  
+2021-08-14 17:06:31,732 - root - DEBUG - Getting nuls
+2021-08-14 17:06:32,271 - root - INFO - Calculating percentage 
+2021-08-14 17:06:32,273 - root - INFO - Done calculating nulls  
+2021-08-14 17:09:09,394 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 17:09:09,395 - parso.python.diff - DEBUG - line_lengths old: 4; new: 1
+2021-08-14 17:09:09,396 - parso.python.diff - DEBUG - -> code[replace] old[1:4] new[1:1]
+2021-08-14 17:09:09,398 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 17:09:09,398 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 20:14:36,845 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 20:14:36,868 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2021-08-14 20:14:36,868 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2021-08-14 20:14:36,883 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2021-08-14 20:14:36,883 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 21:10:22,224 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 21:10:22,248 - parso.python.diff - DEBUG - line_lengths old: 1; new: 7
+2021-08-14 21:10:22,249 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:7]
+2021-08-14 21:10:22,266 - parso.python.diff - DEBUG - parse_part from 1 to 7 (to 6 in part parser)
+2021-08-14 21:10:22,267 - parso.python.diff - DEBUG - diff parser end
+2021-08-14 21:10:30,446 - parso.python.diff - DEBUG - diff parser start
+2021-08-14 21:10:30,450 - parso.python.diff - DEBUG - line_lengths old: 7; new: 7
+2021-08-14 21:10:30,451 - parso.python.diff - DEBUG - -> code[equal] old[1:6] new[1:6]
+2021-08-14 21:10:30,456 - parso.python.diff - DEBUG - copy old[4:5] new[1:5]
+2021-08-14 21:10:30,458 - parso.python.diff - DEBUG - parse_part from 6 to 7 (to 6 in part parser)
+2021-08-14 21:10:30,458 - parso.python.diff - DEBUG - -> code[replace] old[7:7] new[7:7]
+2021-08-14 21:10:30,458 - parso.python.diff - DEBUG - diff parser end

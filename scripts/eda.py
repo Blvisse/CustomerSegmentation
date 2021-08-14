@@ -45,11 +45,11 @@ def num_nulls(data):
         missingValues=missingValues.T
         missingValues.columns=['Total Missing','Percentage Missing']
 
-            logging.info("Missing Values calculated")
-            print("The report of missing values is as follows")
+        logging.info("Missing Values calculated")
+        print("The report of missing values is as follows")
 
 
-            return missingValues
+        return missingValues
 
 
 
